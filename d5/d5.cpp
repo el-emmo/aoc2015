@@ -100,6 +100,5 @@ int part2() {
 
 int main() {
     std::cout << "Part 1: " << part1() << std::endl;
-    std::cout << "lol : " << containsPair("abcdefghijklmnopoab") << std::endl;
     std::cout << "Part 2: " << part2() << std::endl;
 }
