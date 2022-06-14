@@ -70,12 +70,3 @@ with open("input.txt") as file:
                             matrix[x][y] -= 1
                             brightness -= 1
 print(brightness)
-
-
-
-
-
-
-
-
-
